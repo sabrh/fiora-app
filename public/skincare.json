@@ -1,0 +1,234 @@
+[
+  {
+    "name": "COSRX Low pH Good Morning Gel Cleanser",
+    "image": "https://cosrx.com/images/low-ph-cleanser.jpg",
+    "used_for": "Gentle daily cleanser for oily & combination skin",
+    "price": 12.99,
+    "quantity": "150ml",
+    "description": "Mild gel cleanser with tea tree oil and BHA to remove impurities while maintaining skin’s natural pH."
+  },
+  {
+    "name": "Innisfree Green Tea Seed Serum",
+    "image": "https://innisfree.com/images/green-tea-serum.jpg",
+    "used_for": "Hydration and nourishment for dry & combination skin",
+    "price": 27.00,
+    "quantity": "80ml",
+    "description": "Infused with green tea and green tea seed oil for deep hydration and antioxidant protection."
+  },
+  {
+    "name": "Laneige Water Sleeping Mask",
+    "image": "https://laneige.com/images/water-sleeping-mask.jpg",
+    "used_for": "Overnight hydration for dry skin",
+    "price": 25.00,
+    "quantity": "70ml",
+    "description": "Lightweight gel mask that recharges dehydrated skin overnight with hydro-ionized mineral water."
+  },
+  {
+    "name": "Etude House SoonJung pH 5.5 Relief Toner",
+    "image": "https://etude.com/images/soonjung-toner.jpg",
+    "used_for": "Soothing sensitive & combination skin",
+    "price": 14.50,
+    "quantity": "180ml",
+    "description": "Low pH toner formulated with panthenol and madecassoside to calm irritation."
+  },
+  {
+    "name": "Missha Time Revolution First Treatment Essence",
+    "image": "https://missha.com/images/time-revolution-essence.jpg",
+    "used_for": "Brightening and hydration for all skin types",
+    "price": 45.00,
+    "quantity": "150ml",
+    "description": "Cult-favorite essence with fermented yeast extract for improved texture and radiance."
+  },
+  {
+    "name": "Dr. Jart+ Cicapair Tiger Grass Cream",
+    "image": "https://drjart.com/images/cicapair-cream.jpg",
+    "used_for": "Soothing irritated & dry skin",
+    "price": 48.00,
+    "quantity": "50ml",
+    "description": "Rich cream that calms redness and strengthens skin barrier with centella asiatica."
+  },
+  {
+    "name": "COSRX Advanced Snail 96 Mucin Power Essence",
+    "image": "https://cosrx.com/images/snail-essence.jpg",
+    "used_for": "Hydration and repair for all skin types",
+    "price": 23.00,
+    "quantity": "100ml",
+    "description": "Lightweight essence with 96% snail secretion filtrate to restore moisture and improve elasticity."
+  },
+  {
+    "name": "Sulwhasoo Concentrated Ginseng Renewing Cream",
+    "image": "https://sulwhasoo.com/images/ginseng-cream.jpg",
+    "used_for": "Anti-aging for dry & mature skin",
+    "price": 240.00,
+    "quantity": "60ml",
+    "description": "Luxurious cream infused with Korean ginseng for firming and revitalizing the skin."
+  },
+  {
+    "name": "Banila Co Clean It Zero Cleansing Balm",
+    "image": "https://banilaco.com/images/clean-it-zero.jpg",
+    "used_for": "Makeup removal for all skin types",
+    "price": 19.00,
+    "quantity": "100ml",
+    "description": "Sherbet-like balm that transforms into oil to remove makeup and impurities without stripping."
+  },
+  {
+    "name": "Neogen Real Ferment Micro Essence",
+    "image": "https://neogen.com/images/micro-essence.jpg",
+    "used_for": "Brightening and hydration for combination skin",
+    "price": 38.00,
+    "quantity": "150ml",
+    "description": "Contains 93% naturally fermented ingredients to improve tone and texture."
+  },
+  {
+    "name": "Klairs Freshly Juiced Vitamin C Serum",
+    "image": "https://klairscosmetics.com/images/vitamin-c-serum.jpg",
+    "used_for": "Brightening dark spots for all skin types",
+    "price": 23.00,
+    "quantity": "35ml",
+    "description": "Gentle vitamin C serum with 5% ascorbic acid to fade hyperpigmentation and improve radiance."
+  },
+  {
+    "name": "Etude House Moistfull Collagen Cream",
+    "image": "https://etude.com/images/moistfull-collagen.jpg",
+    "used_for": "Deep hydration for dry skin",
+    "price": 20.00,
+    "quantity": "75ml",
+    "description": "Rich cream with hydrolyzed collagen to provide long-lasting moisture."
+  },
+  {
+    "name": "Hera UV Mist Cushion SPF50+",
+    "image": "https://hera.com/images/uv-mist-cushion.jpg",
+    "used_for": "Sun protection & coverage for combination skin",
+    "price": 42.00,
+    "quantity": "15g",
+    "description": "Cushion foundation with high SPF that hydrates and gives natural coverage."
+  },
+  {
+    "name": "COSRX BHA Blackhead Power Liquid",
+    "image": "https://cosrx.com/images/bha-liquid.jpg",
+    "used_for": "Exfoliation for oily & acne-prone skin",
+    "price": 25.00,
+    "quantity": "100ml",
+    "description": "Exfoliating liquid with 4% BHA to unclog pores and reduce blackheads."
+  },
+  {
+    "name": "Nature Republic Aloe Vera Soothing Gel",
+    "image": "https://naturerepublic.com/images/aloe-gel.jpg",
+    "used_for": "Soothing hydration for all skin types",
+    "price": 6.00,
+    "quantity": "300ml",
+    "description": "Multi-purpose aloe gel that calms irritation and hydrates without stickiness."
+  },
+  {
+    "name": "Mediheal N.M.F Aquaring Ampoule Mask",
+    "image": "https://mediheal.com/images/nmf-mask.jpg",
+    "used_for": "Hydration mask for dry & dull skin",
+    "price": 2.50,
+    "quantity": "25ml",
+    "description": "Sheet mask infused with hyaluronic acid and ceramides to deliver intense hydration."
+  },
+  {
+    "name": "Amorepacific Treatment Enzyme Peel",
+    "image": "https://amorepacific.com/images/enzyme-peel.jpg",
+    "used_for": "Gentle exfoliation for sensitive & dry skin",
+    "price": 65.00,
+    "quantity": "70g",
+    "description": "Powder-to-foam exfoliator with papaya enzymes to remove dead skin cells."
+  },
+  {
+    "name": "Pyunkang Yul Moisture Cream",
+    "image": "https://pyunkangyul.com/images/moisture-cream.jpg",
+    "used_for": "Calming hydration for dry & sensitive skin",
+    "price": 24.00,
+    "quantity": "100ml",
+    "description": "Gentle cream formulated with safe, minimal ingredients for hydration."
+  },
+  {
+    "name": "I’m From Honey Mask",
+    "image": "https://imfrom.com/images/honey-mask.jpg",
+    "used_for": "Nourishment & glow for dry skin",
+    "price": 38.00,
+    "quantity": "120g",
+    "description": "Wash-off mask with 38.7% real honey to deeply nourish and revitalize the skin."
+  },
+  {
+    "name": "Mamonde Rose Water Toner",
+    "image": "https://mamonde.com/images/rose-toner.jpg",
+    "used_for": "Refreshing toner for all skin types",
+    "price": 20.00,
+    "quantity": "250ml",
+    "description": "Soothing toner infused with rose water for hydration and calming effects."
+  },
+  {
+    "name": "COSRX Aloe Soothing Sun Cream SPF50+",
+    "image": "https://cosrx.com/images/aloe-suncream.jpg",
+    "used_for": "Daily sun protection for all skin types",
+    "price": 16.00,
+    "quantity": "50ml",
+    "description": "Lightweight sunscreen with aloe vera to hydrate and protect skin from UV rays."
+  },
+  {
+    "name": "Some By Mi AHA BHA PHA 30 Days Miracle Toner",
+    "image": "https://somebymi.com/images/miracle-toner.jpg",
+    "used_for": "Exfoliation & acne care for oily skin",
+    "price": 22.00,
+    "quantity": "150ml",
+    "description": "Contains AHA, BHA, and PHA to exfoliate, clear pores, and brighten skin."
+  },
+  {
+    "name": "Dr. Jart+ Vital Hydra Solution Mask",
+    "image": "https://drjart.com/images/hydra-mask.jpg",
+    "used_for": "Intense hydration for dry skin",
+    "price": 6.00,
+    "quantity": "25ml",
+    "description": "Hydrating sheet mask with aquaxyl and hyaluronic acid for replenishing moisture."
+  },
+  {
+    "name": "Laneige Lip Sleeping Mask",
+    "image": "https://laneige.com/images/lip-sleeping-mask.jpg",
+    "used_for": "Lip hydration overnight",
+    "price": 22.00,
+    "quantity": "20g",
+    "description": "Nourishing overnight lip mask with berry mix complex for soft, plump lips."
+  },
+  {
+    "name": "TonyMoly I'm Real Rice Mask",
+    "image": "https://tonymoly.com/images/rice-mask.jpg",
+    "used_for": "Brightening for dull skin",
+    "price": 3.00,
+    "quantity": "21ml",
+    "description": "Sheet mask with rice extract to brighten and smooth the skin."
+  },
+  {
+    "name": "IOPE Super Vital Cream",
+    "image": "https://iope.com/images/super-vital-cream.jpg",
+    "used_for": "Anti-aging hydration for dry skin",
+    "price": 95.00,
+    "quantity": "50ml",
+    "description": "Rich cream with bio-active complexes to improve elasticity and fight wrinkles."
+  },
+  {
+    "name": "Holika Holika Aloe Soothing Gel",
+    "image": "https://holikaholika.com/images/aloe-gel.jpg",
+    "used_for": "Soothing hydration for oily & irritated skin",
+    "price": 7.00,
+    "quantity": "250ml",
+    "description": "Lightweight aloe vera gel that soothes sunburn and hydrates skin."
+  },
+  {
+    "name": "SkinFood Black Sugar Mask Wash Off",
+    "image": "https://skinfood.com/images/black-sugar-mask.jpg",
+    "used_for": "Exfoliation for dull skin",
+    "price": 10.00,
+    "quantity": "100g",
+    "description": "Physical scrub mask with black sugar granules to remove dead skin and soften texture."
+  },
+  {
+    "name": "The Face Shop Rice Water Bright Cleansing Foam",
+    "image": "https://thefaceshop.com/images/rice-cleansing.jpg",
+    "used_for": "Brightening cleanser for all skin types",
+    "price": 13.00,
+    "quantity": "150ml",
+    "description": "Foam cleanser with rice water extract to remove impurities and brighten skin."
+  }
+]

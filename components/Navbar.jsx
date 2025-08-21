@@ -1,8 +1,10 @@
 "use client";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 
 const Navbar = () => {
+    const pathname = usePathname();
         
      const links = [
     { name: "home", href: "/" },
@@ -19,10 +21,10 @@ const Navbar = () => {
                 </div>
                 <ul
                     tabIndex={0}
-                    className="menu menu-sm dropdown-content rounded-box z-1 mt-3 w-52 p-2 shadow text-lg">
+                    className="menu menu-sm dropdown-content rounded-box z-1 mt-3 w-52 p-2 shadow bg-white">
                      {links.map((link) => (
                     <li key={link.href}>
-                        <Link href={link.href}>{link.name}</Link>
+                        <Link href={link.href} className="text-lg">{link.name}</Link>
                     </li>
                     ))}
                 </ul>
@@ -34,7 +36,9 @@ const Navbar = () => {
                 <ul className="menu menu-horizontal px-1 text-lg">
                  {links.map((link) => (
                     <li key={link.href}>
-                        <Link href={link.href}>{link.name}</Link>
+                        <Link href={link.href} className={`px-2 ${pathname === link.href ? 
+                            "underline underline-offset-4 font-semibold" : ""}`}>
+                            {link.name}</Link>
                     </li>
                 ))}
                 </ul>
