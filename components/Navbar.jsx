@@ -10,8 +10,8 @@ const Navbar = () => {
     { name: "home", href: "/" },
     { name: "products", href: "/products" },
   ];
-
-    return (
+    if (!pathname.includes("login") && !pathname.includes("register") && !pathname.includes("not-found")) {
+        return (
         <div className="navbar shadow-sm md:px-16 bg-red-100">
 
             <div className="navbar-start">
@@ -54,6 +54,10 @@ const Navbar = () => {
 
         </div>
     );
+    }
+    else {
+        return <></>
+    }
 };
 
 export default Navbar;
