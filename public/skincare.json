@@ -1,7 +1,7 @@
 [
   {
     "name": "COSRX Low pH Good Morning Gel Cleanser",
-    "image": "https://cosrx.com/images/low-ph-cleanser.jpg",
+    "image": "https://www.cosrx.com/cdn/shop/files/800x1067____231120_2af5867e-dc9f-48dc-8c4b-b050d87a3742_2048x.webp?v=1704429287",
     "used_for": "Gentle daily cleanser for oily & combination skin",
     "price": 12.99,
     "quantity": "150ml",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Innisfree Green Tea Seed Serum",
-    "image": "https://innisfree.com/images/green-tea-serum.jpg",
+    "image": "https://us.innisfree.com/cdn/shop/files/01_131175319_EarthDay_GreenTeaSeedHyaluronicSerum130mlPDPCut_2.jpg?v=1748918169&width=672",
     "used_for": "Hydration and nourishment for dry & combination skin",
     "price": 27.00,
     "quantity": "80ml",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Laneige Water Sleeping Mask",
-    "image": "https://laneige.com/images/water-sleeping-mask.jpg",
+    "image": "https://us.laneige.com/cdn/shop/files/WSM_AD_PDP_2.jpg?v=1754046790",
     "used_for": "Overnight hydration for dry skin",
     "price": 25.00,
     "quantity": "70ml",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Etude House SoonJung pH 5.5 Relief Toner",
-    "image": "https://etude.com/images/soonjung-toner.jpg",
+    "image": "https://sokoglam.com/cdn/shop/products/Soko-Glam-Etude-House-SoonJung-pH-5-5-Relief-Toner-Skin-Care-Korean.jpg?v=1754614765&width=1445",
     "used_for": "Soothing sensitive & combination skin",
     "price": 14.50,
     "quantity": "180ml",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Missha Time Revolution First Treatment Essence",
-    "image": "https://missha.com/images/time-revolution-essence.jpg",
+    "image": "https://misshaus.com/cdn/shop/files/cica5x.png?v=1677527764",
     "used_for": "Brightening and hydration for all skin types",
     "price": 45.00,
     "quantity": "150ml",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Dr. Jart+ Cicapair Tiger Grass Cream",
-    "image": "https://drjart.com/images/cicapair-cream.jpg",
+    "image": "https://www.drjart.co.uk/media/export/cms/products/1000x1000/dj_sku_H7N601_1000x1000_0.jpg",
     "used_for": "Soothing irritated & dry skin",
     "price": 48.00,
     "quantity": "50ml",
@@ -49,7 +49,7 @@
   },
   {
     "name": "COSRX Advanced Snail 96 Mucin Power Essence",
-    "image": "https://cosrx.com/images/snail-essence.jpg",
+    "image": "https://www.cosrx.com/cdn/shop/files/800x1067____231120_e9c80f69-91e9-4f80-99f4-e62372240f7b_2048x.webp?v=1748420289",
     "used_for": "Hydration and repair for all skin types",
     "price": 23.00,
     "quantity": "100ml",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Sulwhasoo Concentrated Ginseng Renewing Cream",
-    "image": "https://sulwhasoo.com/images/ginseng-cream.jpg",
+    "image": "https://www.sulwhasoo.com/int/en/resource/img/cover/concentrated_ginseng_renewing_product01_pc_int_240318.jpg",
     "used_for": "Anti-aging for dry & mature skin",
     "price": 240.00,
     "quantity": "60ml",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Banila Co Clean It Zero Cleansing Balm",
-    "image": "https://banilaco.com/images/clean-it-zero.jpg",
+    "image": "https://banilausa.com/cdn/shop/files/Try-our-NEW-Enriching-Butter-Cleansing-Balm.jpg?v=1730194846&width=360",
     "used_for": "Makeup removal for all skin types",
     "price": 19.00,
     "quantity": "100ml",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Neogen Real Ferment Micro Essence",
-    "image": "https://neogen.com/images/micro-essence.jpg",
+    "image": "https://www.skinitrealmm.com/cdn/shop/products/neogenessencecopy.jpg?v=1645458911",
     "used_for": "Brightening and hydration for combination skin",
     "price": 38.00,
     "quantity": "150ml",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Klairs Freshly Juiced Vitamin C Serum",
-    "image": "https://klairscosmetics.com/images/vitamin-c-serum.jpg",
+    "image": "https://bd-1.edkncdn.net/img/800x800/stores/6373c19d580dcd99c3fae563/product-square/1685441717354-yeb_1s4mTm6w2qFSDANOC.webp",
     "used_for": "Brightening dark spots for all skin types",
     "price": 23.00,
     "quantity": "35ml",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Etude House Moistfull Collagen Cream",
-    "image": "https://etude.com/images/moistfull-collagen.jpg",
+    "image": "https://coree.ch/cdn/shop/files/Etudehousemoistfulcollagencream_1080x.png?v=1730800113",
     "used_for": "Deep hydration for dry skin",
     "price": 20.00,
     "quantity": "75ml",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Hera UV Mist Cushion SPF50+",
-    "image": "https://hera.com/images/uv-mist-cushion.jpg",
+    "image": "https://www.dodoskin.com/cdn/shop/products/8809559343833.jpg?v=1635916641",
     "used_for": "Sun protection & coverage for combination skin",
     "price": 42.00,
     "quantity": "15g",
@@ -105,7 +105,7 @@
   },
   {
     "name": "COSRX BHA Blackhead Power Liquid",
-    "image": "https://cosrx.com/images/bha-liquid.jpg",
+    "image": "https://www.cosrx.com/cdn/shop/files/bha-blackhead-power-liquid-cosrx-official-7_2048x.jpg?v=1724835545",
     "used_for": "Exfoliation for oily & acne-prone skin",
     "price": 25.00,
     "quantity": "100ml",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Nature Republic Aloe Vera Soothing Gel",
-    "image": "https://naturerepublic.com/images/aloe-gel.jpg",
+    "image": "https://cdn.klassy.com.bd/uploads/products/products/Nature-Republic-Soothing-and-Moisture-Aloe-Vera-92percent-Soothing-Gel-300ml-f9f0-products.webp",
     "used_for": "Soothing hydration for all skin types",
     "price": 6.00,
     "quantity": "300ml",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Mediheal N.M.F Aquaring Ampoule Mask",
-    "image": "https://mediheal.com/images/nmf-mask.jpg",
+    "image": "https://www.mikaela-beauty.com/cdn/shop/products/AX6H9235w_1200x1200.jpg?v=1563637445",
     "used_for": "Hydration mask for dry & dull skin",
     "price": 2.50,
     "quantity": "25ml",
@@ -129,7 +129,7 @@
   },
   {
     "name": "Amorepacific Treatment Enzyme Peel",
-    "image": "https://amorepacific.com/images/enzyme-peel.jpg",
+    "image": "https://us.amorepacific.com/cdn/shop/files/0812.jpg?v=1725476324",
     "used_for": "Gentle exfoliation for sensitive & dry skin",
     "price": 65.00,
     "quantity": "70g",
@@ -137,7 +137,7 @@
   },
   {
     "name": "Pyunkang Yul Moisture Cream",
-    "image": "https://pyunkangyul.com/images/moisture-cream.jpg",
+    "image": "https://m.media-amazon.com/images/I/614ynpAE6KL._UF1000,1000_QL80_.jpg",
     "used_for": "Calming hydration for dry & sensitive skin",
     "price": 24.00,
     "quantity": "100ml",
@@ -145,7 +145,7 @@
   },
   {
     "name": "I’m From Honey Mask",
-    "image": "https://imfrom.com/images/honey-mask.jpg",
+    "image": "https://beautybarn.in/wp-content/uploads/2018/09/6-1-150x200.jpg",
     "used_for": "Nourishment & glow for dry skin",
     "price": 38.00,
     "quantity": "120g",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Mamonde Rose Water Toner",
-    "image": "https://mamonde.com/images/rose-toner.jpg",
+    "image": "https://beautybellbd.com/wp-content/uploads/2023/02/mamonde-rose-water-toner-25ml-6337006cb2f53-large.webp",
     "used_for": "Refreshing toner for all skin types",
     "price": 20.00,
     "quantity": "250ml",
@@ -161,7 +161,7 @@
   },
   {
     "name": "COSRX Aloe Soothing Sun Cream SPF50+",
-    "image": "https://cosrx.com/images/aloe-suncream.jpg",
+    "image": "https://i.makeup.uk/e/eq/eq68dlz3enbk.jpg",
     "used_for": "Daily sun protection for all skin types",
     "price": 16.00,
     "quantity": "50ml",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Some By Mi AHA BHA PHA 30 Days Miracle Toner",
-    "image": "https://somebymi.com/images/miracle-toner.jpg",
+    "image": "https://cdn.beautybooth.com.bd/uploads/all/8RpSmOS0hzXDiEGvZZe98lhQq8fOAyXiHhM2A6Oo.jpeg",
     "used_for": "Exfoliation & acne care for oily skin",
     "price": 22.00,
     "quantity": "150ml",
@@ -177,7 +177,7 @@
   },
   {
     "name": "Dr. Jart+ Vital Hydra Solution Mask",
-    "image": "https://drjart.com/images/hydra-mask.jpg",
+    "image": "https://www.drjart.com/media/export/cms/products/1000x1000/dj_sku_H7HX01_1000x1000_0.jpg",
     "used_for": "Intense hydration for dry skin",
     "price": 6.00,
     "quantity": "25ml",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Laneige Lip Sleeping Mask",
-    "image": "https://laneige.com/images/lip-sleeping-mask.jpg",
+    "image": "https://www.laneige.com/int/en/assets/pdp/skincare/lip_sleeping_mask_product_img01_int_250108.jpg",
     "used_for": "Lip hydration overnight",
     "price": 22.00,
     "quantity": "20g",
@@ -193,7 +193,7 @@
   },
   {
     "name": "TonyMoly I'm Real Rice Mask",
-    "image": "https://tonymoly.com/images/rice-mask.jpg",
+    "image": "https://cocorosey.net/cdn/shop/products/2_19a3b7f2-84b9-4a1b-a7bc-443a0fbe2292_1800x.png?v=1679765882",
     "used_for": "Brightening for dull skin",
     "price": 3.00,
     "quantity": "21ml",
@@ -201,7 +201,7 @@
   },
   {
     "name": "IOPE Super Vital Cream",
-    "image": "https://iope.com/images/super-vital-cream.jpg",
+    "image": "https://www.korendy.com/cdn/shop/products/Super_Vital_Cream_Bio_Excellent_open.jpg?v=1472505716",
     "used_for": "Anti-aging hydration for dry skin",
     "price": 95.00,
     "quantity": "50ml",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Holika Holika Aloe Soothing Gel",
-    "image": "https://holikaholika.com/images/aloe-gel.jpg",
+    "image": "https://bearel.fi/wp-content/uploads/2021/02/Holika-Holika-Aloe-99-Soothing-Gel-250ml.jpg",
     "used_for": "Soothing hydration for oily & irritated skin",
     "price": 7.00,
     "quantity": "250ml",
@@ -217,7 +217,7 @@
   },
   {
     "name": "SkinFood Black Sugar Mask Wash Off",
-    "image": "https://skinfood.com/images/black-sugar-mask.jpg",
+    "image": "https://princesscosmeticsqa.com/cdn/shop/products/skinfood-black-sugar-mask-wash-off-100g-skyn-fod-knaaa-alskr-alasod-yghsl-100-jram-101433.png?v=1738160865",
     "used_for": "Exfoliation for dull skin",
     "price": 10.00,
     "quantity": "100g",
@@ -225,7 +225,7 @@
   },
   {
     "name": "The Face Shop Rice Water Bright Cleansing Foam",
-    "image": "https://thefaceshop.com/images/rice-cleansing.jpg",
+    "image": "https://m.media-amazon.com/images/I/61OfaXa8ERL.jpg",
     "used_for": "Brightening cleanser for all skin types",
     "price": 13.00,
     "quantity": "150ml",

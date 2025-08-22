@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function ProductCard({ product }) {
   return (
-    <div className="border p-4 rounded-lg shadow flex flex-col items-center bg-white">
+    <div className="p-4 rounded-lg shadow flex flex-col items-center bg-white">
       <img
         src={product.image || "/placeholder.png"}
         alt={product.name || "Product Image"}
@@ -14,7 +14,7 @@ export default function ProductCard({ product }) {
       <p className="text-gray-600 mt-1">{product.quantity}</p>
       <Link
         href={`/products/${product._id}`}
-        className="btn btn-neutral mt-4 w-full"
+        className="btn btn-neutral mt-4 rounded-full"
       >
         Details
       </Link>
