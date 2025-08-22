@@ -7,8 +7,9 @@ const Navbar = () => {
     const pathname = usePathname();
         
      const links = [
-    { name: "home", href: "/" },
-    { name: "products", href: "/products" },
+    { name: "Home", href: "/" },
+    { name: "Products", href: "/products" },
+    { name: "Add Product", href: "/add-product" },
   ];
     if (!pathname.includes("login") && !pathname.includes("register") && !pathname.includes("not-found")) {
         return (
