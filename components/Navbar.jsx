@@ -1,9 +1,11 @@
 "use client";
+import { signOut, useSession } from "next-auth/react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 
 const Navbar = () => {
+    const { data: session, status } = useSession();
     const pathname = usePathname();
         
      const links = [
@@ -46,15 +48,23 @@ const Navbar = () => {
             </div>
             
            <div className="navbar-end relative items-center gap-x-4 md:ml-10">
-            <Link href="/register"
+            {status == "authenticated" ? (
+                <>
+                <a onClick={() => signOut()}
+                    className="btn bg-orange-600 text-white rounded-full">Logout
+                </a>
+                </>
+            ) : (
+                <>
+                <Link href="/register"
                 className="btn btn-ghost rounded-full">Register
-            </Link>
-            <Link href="/login"
-                className="btn btn-ghost btn-outline rounded-full">Login
-            </Link>
-            
+                </Link>
+                <Link href="/login"
+                    className="btn btn-ghost btn-outline rounded-full">Login
+                </Link>
+                </>
+            )}
             </div>
-
         </div>
     );
     }

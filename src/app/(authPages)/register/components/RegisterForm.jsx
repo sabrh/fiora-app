@@ -57,10 +57,6 @@ export default function RegisterForm() {
         Login</Link>{" "}here.
     </p>
 
-
-    <button className="btn btn-soft rounded-full w-full max-w-md mt-4 text-lg flex items-center justify-center gap-2">
-      Signin with <FcGoogle />
-    </button>
   </form>
 
   )

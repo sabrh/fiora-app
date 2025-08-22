@@ -1,17 +1,12 @@
-import clientPromise from "@/lib/dbConnect";
+import dbConnect, { collectionNamesObj } from "@/lib/dbConnect";
 import Image from "next/image";
 import { ObjectId } from "mongodb"; 
 
 export default async function ProductDetails({ params }) {
   const { id } = params;
 
-  const client = await clientPromise;
-  const db = client.db(process.env.DB_NAME);
-
-  // fetch single product by _id
-  const product = await db
-    .collection("products")
-    .findOne({ _id: new ObjectId(id) });
+  const productCollection = dbConnect(collectionNamesObj.productCollection);
+  const product = await productCollection.findOne({ _id: new ObjectId(id) });
 
   if (!product) {
     return (

@@ -3,16 +3,17 @@ import dbConnect, { collectionNamesObj } from "../../lib/dbConnect";
 import Link from "next/link";
 
 export default async function Products({ searchParams }) {
+  const params = await searchParams;
+
   const productCollection = dbConnect(collectionNamesObj.productCollection);
-  const data = await productCollection.find({}).toArray();
 
   // get current page from query (default: 1)
-  const page = parseInt(searchParams.page) || 1;
+  const page = parseInt(params?.page) || 1;
   const limit = 10; // products per page
   const skip = (page - 1) * limit;
 
   // get search query
-  const search = searchParams.search || "";
+  const search = params?.search || "";
 
   // MongoDB query
   const query = search
@@ -20,16 +21,15 @@ export default async function Products({ searchParams }) {
     : {};
 
   // fetch products with pagination + search
-  const data = await db
-    .collection("products")
+  const data = await productCollection
     .find(query)
     .skip(skip)
     .limit(limit)
     .toArray();
 
   // count total products for total pages
-  const totalProducts = await db.collection("products").countDocuments(query);
-  const totalPages = Math.ceil(totalProducts / limit);
+ const totalProducts = await productCollection.countDocuments(query);
+ const totalPages = Math.ceil(totalProducts / limit);
 
   return (
     <div className="p-6">

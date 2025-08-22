@@ -7,16 +7,22 @@ import { FaEye } from 'react-icons/fa';
 import { useRouter } from 'next/navigation';
 
 export default function LoginForm() {
+  
     const [showPassword, setShowPassword] = React.useState(false);
-    //const router = useRouter();
+    const router = useRouter();
     const handleSubmit = async (e) => {
     e.preventDefault();
     const form = e.target;
     const email = form.email.value;
     const password = form.password.value;
     try {
-      await signIn("credentials", { email, password, callbackUrl: "/" })
-      //router.push("/")
+      const response = await signIn("credentials", { email, password, callbackUrl: "/products", redirect: false, })
+      if(response.ok) {
+        router.push("/products");
+        form.reset();
+      } else{
+        alert("Authentication Failed")
+      }
     } catch (error) {
       console.log(error);
       alert("Authentication Failed");
@@ -56,10 +62,6 @@ export default function LoginForm() {
         Register</Link>{" "}here.
     </p>
 
-
-    <button className="btn btn-soft rounded-full w-full max-w-md mt-4 text-lg flex items-center justify-center gap-2">
-      Signin with <FcGoogle />
-    </button>
   </form>
 
   )
