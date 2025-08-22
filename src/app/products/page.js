@@ -1,10 +1,10 @@
 import ProductCard from "../../../components/ProductCard";
-import clientPromise from "@/lib/dbConnect";
+import dbConnect, { collectionNamesObj } from "../../lib/dbConnect";
 import Link from "next/link";
 
 export default async function Products({ searchParams }) {
-  const client = await clientPromise;
-  const db = client.db(process.env.DB_NAME);
+  const productCollection = dbConnect(collectionNamesObj.productCollection);
+  const data = await productCollection.find({}).toArray();
 
   // get current page from query (default: 1)
   const page = parseInt(searchParams.page) || 1;

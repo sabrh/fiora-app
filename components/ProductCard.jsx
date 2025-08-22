@@ -1,5 +1,4 @@
 import Link from "next/link";
-import clientPromise from "@/lib/dbConnect";
 
 export default function ProductCard({ product }) {
   return (

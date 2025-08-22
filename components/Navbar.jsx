@@ -46,7 +46,9 @@ const Navbar = () => {
             </div>
             
            <div className="navbar-end relative items-center gap-x-4 md:ml-10">
-        
+            <Link href="/register"
+                className="btn btn-ghost rounded-full">Register
+            </Link>
             <Link href="/login"
                 className="btn btn-ghost btn-outline rounded-full">Login
             </Link>
